@@ -12,6 +12,7 @@ Prefer Coffee or Tea?
 Went to Working Holiday?
 
 Good in Maths?
+kelvin -soso
 
 Desperately need a Boyfriend / Girlfriend?
 
