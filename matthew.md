@@ -6,7 +6,7 @@ Learned Programming before Tecky?
 Started / Running a Startup?
 
 Had an unusual Job?
-
+Ronson: yes
 Prefer Coffee or Tea?
 
 Went to Working Holiday?
@@ -20,3 +20,4 @@ Want to be Hacker?
 Love Sports?
 
 Fans of Matrix (the movie)?
+Louie
