@@ -1,28 +1,27 @@
 Ask your classmate to fill in the question and commit with their laptop, not yours.
 
-
 Learned Programming before Tecky?
-
+<<<<<<< HEAD
+matt
+=======
+Matt
+>>>>>>> 4659f3970c061ee523edc1cdff184afadf110ca9
 Started / Running a Startup?
 
 Had an unusual Job?
 
 Prefer Coffee or Tea?
 
-
 Went to Working Holiday?
-<<<<<<< HEAD
-No
-Tony
-=======
->>>>>>> a856f9ff27a79da44dac2a14d9c462e37e3ea25f
 
 Good in Maths?
 
 Desperately need a Boyfriend / Girlfriend?
 
 Want to be Hacker?
+Angelina
 
 Love Sports?
-Jeffrey
-Fans of Matrix (the movie)?
+Angelina
+
+Fans of Matrix (the movie)? ..
