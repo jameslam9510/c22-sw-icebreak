@@ -1,7 +1,7 @@
 Learned Programming before Tecky?
 no
 Started / Running a Startup?
-no
+no ,ling
 Had an unusual Job?
 Louie
 Prefer Coffee or Tea?
