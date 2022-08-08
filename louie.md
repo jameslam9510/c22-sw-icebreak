@@ -17,8 +17,4 @@ Want to be Hacker?
 Love Sports?
 
 Fans of Matrix (the movie)?
-<<<<<<< HEAD
-Yes-Matthew
-=======
 Tony
->>>>>>> e753461fd233b03af6dcdf406246bc232e9099f8
