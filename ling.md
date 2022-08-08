@@ -7,10 +7,10 @@ Had an unusual Job?
 Prefer Coffee or Tea?
 Tony
 Went to Working Holiday?
-
+Ronson - no
 
 Good in Maths?
-
+Cynthia: fair
 Desperately need a Boyfriend / Girlfriend?
 
 Want to be Hacker?
