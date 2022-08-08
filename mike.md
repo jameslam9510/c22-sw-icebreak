@@ -16,7 +16,7 @@ tea
 Went to Working Holiday?
 no
 Good in Maths?
-no
+no (jeffrey)
 Desperately need a Boyfriend / Girlfriend?
 already occupied, ladies
 Want to be Hacker?
