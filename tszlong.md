@@ -8,7 +8,7 @@ Cynthia: No
 Had an unusual Job?
 
 Prefer Coffee or Tea?
-
+tea
 
 Went to Working Holiday?
 No
@@ -17,8 +17,12 @@ Tony
 Good in Maths? No Vicky
 
 Desperately need a Boyfriend / Girlfriend?
+yes bf and gf
+Curtis: No, need some sugar in general
 
 Want to be Hacker?
+
+
 
 Love Sports?
 

@@ -3,6 +3,7 @@ Jennifer
 Started / Running a Startup?
 No-Matthew
 Had an unusual Job?
+Curtis: Yes, airbnb hosting while studying in Melbourne and foodpanda delivery 
 
 Prefer Coffee or Tea?
 Tony
