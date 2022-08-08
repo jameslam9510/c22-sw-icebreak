@@ -1,11 +1,7 @@
 Ask your classmate to fill in the question and commit with their laptop, not yours.
 
 Learned Programming before Tecky?
-<<<<<<< HEAD
 matt
-=======
-Matt
->>>>>>> 4659f3970c061ee523edc1cdff184afadf110ca9
 Started / Running a Startup?
 
 Had an unusual Job?
