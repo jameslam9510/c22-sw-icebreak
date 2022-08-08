@@ -1,6 +1,6 @@
 Learned Programming before Tecky?
 
-Curtis: No
+Curtis  : No
 
 Started / Running a Startup?
 
