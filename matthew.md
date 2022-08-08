@@ -2,11 +2,11 @@ Ask your classmate to fill in the question and commit with their laptop, not you
 
 
 Learned Programming before Tecky?
-
+no
 Started / Running a Startup?
-
+no 
 Had an unusual Job?
-
+yes, night shift in hotel on his own
 Prefer Coffee or Tea?
 
 Went to Working Holiday?
