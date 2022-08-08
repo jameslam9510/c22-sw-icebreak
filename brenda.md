@@ -25,6 +25,6 @@ No
 Want to be Hacker?
 No
 Love Sports?
-Yes
+Yes yes(jeffrey)
 Fans of Matrix (the movie)?
 no
