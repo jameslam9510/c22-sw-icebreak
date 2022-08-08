@@ -21,6 +21,7 @@ Curtis: Coffee, specifically, dirty
 Went to Working Holiday?
 
 Good in Maths?
+kelvin -soso
 
 Desperately need a Boyfriend / Girlfriend?
 
