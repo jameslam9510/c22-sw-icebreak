@@ -21,12 +21,9 @@ Desperately need a Boyfriend / Girlfriend?
 already occupied, ladies
 Want to be Hacker?
 no
-Love Sports?
-<<<<<<< HEAD
-Tony
-Fans of Matrix (the movie)?
-=======
+Love Sports? No Vicky
+Yes Volleyball- Matthew
 yes, aerial yoga
 Fans of Matrix (the movie)?
+Tony
 no
->>>>>>> a856f9ff27a79da44dac2a14d9c462e37e3ea25f
