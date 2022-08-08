@@ -9,6 +9,7 @@ Had an unusual Job?
 Prefer Coffee or Tea?
 
 Went to Working Holiday?
+Ronson: No
 
 Good in Maths?
 
