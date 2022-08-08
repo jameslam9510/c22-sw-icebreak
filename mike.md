@@ -21,7 +21,7 @@ Desperately need a Boyfriend / Girlfriend?
 already occupied, ladies
 Want to be Hacker?
 no
-Love Sports?
+Love Sports? No Vicky
 <<<<<<< HEAD
 Tony
 Fans of Matrix (the movie)?
