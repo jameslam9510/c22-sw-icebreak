@@ -5,7 +5,7 @@ Started / Running a Startup?
 Had an unusual Job?
 
 Prefer Coffee or Tea?
-
+tea
 Went to Working Holiday?
 
 Good in Maths?
@@ -14,6 +14,6 @@ Desperately need a Boyfriend / Girlfriend?
 
 Want to be Hacker?
 
-Love Sports? NO
+Love Sports? 
 
-Fans of Matrix (the movie)? HI
+Fans of Matrix (the movie)? 

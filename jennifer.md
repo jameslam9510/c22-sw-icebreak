@@ -1,3 +1,6 @@
+Ask your classmate to fill in the question and commit with their laptop, not yours.
+
+
 Learned Programming before Tecky?
 
 Started / Running a Startup?
@@ -13,7 +16,7 @@ Good in Maths?
 Desperately need a Boyfriend / Girlfriend?
 
 Want to be Hacker?
-
+Ronson
 Love Sports?
 
 Fans of Matrix (the movie)?
