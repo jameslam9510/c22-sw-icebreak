@@ -5,17 +5,18 @@ Learned Programming before Tecky?
 Started / Running a Startup?
 
 Had an unusual Job?
-
+no
 Prefer Coffee or Tea?
-
-Went to Working Holiday?
-
+coffee
+Went to Working Holiday? no Vicky
+no
 Good in Maths?
-
+no
 Desperately need a Boyfriend / Girlfriend?
-
+no
 Want to be Hacker?
-
+yes
 Love Sports?
-
+yes volleyball - noelle
 Fans of Matrix (the movie)?
+yes
