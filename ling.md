@@ -7,8 +7,7 @@ Had an unusual Job?
 Prefer Coffee or Tea?
 Tony
 Went to Working Holiday?
-Pax: No
-
+Ronson - no
 
 Good in Maths?
 Cynthia: fair
