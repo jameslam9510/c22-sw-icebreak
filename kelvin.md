@@ -1,8 +1,10 @@
 Learned Programming before Tecky?
 
+Curtis: No
+
 Started / Running a Startup?
 
-Had an unusual Job?
+Had an unusual Job?  No Vicky
 
 Prefer Coffee or Tea?
 
