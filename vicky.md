@@ -1,7 +1,7 @@
 Learned Programming before Tecky?
 
 Started / Running a Startup?
-Cynthia: No
+
 Had an unusual Job?
 
 Prefer Coffee or Tea?
@@ -11,9 +11,9 @@ Went to Working Holiday?
 Good in Maths?
 Louie
 Desperately need a Boyfriend / Girlfriend?
-Ronson - no
+
 Want to be Hacker?
 
 Love Sports? 
-
+Yes,volleyball - Matthew
 Fans of Matrix (the movie)? 
