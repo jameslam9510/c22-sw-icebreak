@@ -6,12 +6,15 @@ Started / Running a Startup?
 
 Had an unusual Job?
 
-Prefer Coffee or Tea?
+Prefer Coffee or Tea? 
 Pax: Coffee
+Curtis: Coffee specifically, dirty
+Vicky: Tea
 
 Went to Working Holiday?
 
 Good in Maths?
+
 
 Desperately need a Boyfriend / Girlfriend?
 brenda: no ans

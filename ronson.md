@@ -8,7 +8,7 @@ Prefer Coffee or Tea?
 Jennifer
 coffee
 Went to Working Holiday?
-no (Kyle)
+no
 Good in Maths?
 no
 Desperately need a Boyfriend / Girlfriend?
@@ -16,12 +16,9 @@ no
 Want to be Hacker?
 yes
 Love Sports?
-<<<<<<< HEAD
-
-# Fans of Matrix (the movie)?
+Yes,volleyball-Matthew
 
 yes
 Fans of Matrix (the movie)?
 yes
 
-> > > > > > > d39308107d60100e131e3c0a70fbf25abc5ac013

@@ -7,13 +7,14 @@ Had an unusual Job?
 Prefer Coffee or Tea?
 tea
 Went to Working Holiday?
+kelvin-no
 
 Good in Maths?
 Louie
 Desperately need a Boyfriend / Girlfriend?
-Ronson - no
+
 Want to be Hacker?
 
 Love Sports? 
-
+Yes,volleyball - Matthew
 Fans of Matrix (the movie)? 

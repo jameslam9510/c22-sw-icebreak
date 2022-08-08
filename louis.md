@@ -7,17 +7,17 @@ no
 Had an unusual Job?
 no
 Prefer Coffee or Tea?
+<<<<<<< HEAD
+tea - kelivn
+=======
 tea
+>>>>>>> f681d5f5b38135ce5f8c1f25ef1a3c92bf3a33b8
 Went to Working Holiday?
 no
 Tony no
 Good in Maths?
-<<<<<<< HEAD
 Pax: Yes
-
-=======
-yes
->>>>>>> 533d12e2ede16a076219cc50636d429f8043695a
+Brenda : yes
 Desperately need a Boyfriend / Girlfriend?
 no
 Want to be Hacker?
