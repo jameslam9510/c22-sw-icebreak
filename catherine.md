@@ -9,7 +9,7 @@ Had an unusual Job?
 Prefer Coffee or Tea?
 vicky
 Went to Working Holiday?
-
+Cynthia: never
 Good in Maths?
 sau
 Desperately need a Boyfriend / Girlfriend?

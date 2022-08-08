@@ -1,4 +1,6 @@
 Learned Programming before Tecky?
+no - kyle
+
 
 Started / Running a Startup?
 
@@ -11,9 +13,10 @@ No-Jeffrey
 Good in Maths?
 
 Desperately need a Boyfriend / Girlfriend?
+Pax: No
 
 Want to be Hacker?
 
 Love Sports?
-Louie
+
 Fans of Matrix (the movie)?

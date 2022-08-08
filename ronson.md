@@ -1,14 +1,14 @@
 Learned Programming before Tecky?
 no
 Started / Running a Startup?
-no
+no ,ling
 Had an unusual Job?
 Louie
 Prefer Coffee or Tea?
 Jennifer
 coffee
 Went to Working Holiday?
-no
+no (Kyle)
 Good in Maths?
 no
 Desperately need a Boyfriend / Girlfriend?
