@@ -7,7 +7,7 @@ no
 Had an unusual Job?
 no
 Prefer Coffee or Tea?
-coffe
+coffee
 Went to Working Holiday?
 no
 Good in Maths?
