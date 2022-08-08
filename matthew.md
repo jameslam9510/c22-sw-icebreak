@@ -2,11 +2,12 @@ Ask your classmate to fill in the question and commit with their laptop, not you
 
 
 Learned Programming before Tecky?
+no　- kyle 
 
 Started / Running a Startup?
 
 Had an unusual Job?
-
+Ronson: yes
 Prefer Coffee or Tea?
 
 Went to Working Holiday?
@@ -16,6 +17,7 @@ Good in Maths?
 Desperately need a Boyfriend / Girlfriend?
 
 Want to be Hacker?
+I want to be Hacker
 
 Love Sports?
 

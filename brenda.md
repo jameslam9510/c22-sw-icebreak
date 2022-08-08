@@ -11,6 +11,7 @@ Had an unusual Job?
 Yes
 
 Prefer Coffee or Tea?
+Pax: Coffee
 
 Coffee
 
@@ -25,6 +26,6 @@ No
 Want to be Hacker?
 No
 Love Sports?
-Yes
+Yes yes(jeffrey)
 Fans of Matrix (the movie)?
 no

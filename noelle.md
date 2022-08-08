@@ -1,9 +1,9 @@
 Ask your classmate to fill in the question and commit with their laptop, not yours.
 
 Learned Programming before Tecky?
-no Jeffrey
+
 Started / Running a Startup?
-no
+
 Had an unusual Job?
 no
 Prefer Coffee or Tea?
@@ -17,6 +17,6 @@ no
 Want to be Hacker?
 yes
 Love Sports?
-yes
+yes volleyball - Matthew
 Fans of Matrix (the movie)?
 yes
