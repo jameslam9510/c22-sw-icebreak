@@ -10,7 +10,7 @@ Prefer Coffee or Tea?
 coffee
 Went to Working Holiday?
 no
-Good in Maths?
+Good in Maths? Cynthia: not really
 ok 
 Desperately need a Boyfriend / Girlfriend?
 no
