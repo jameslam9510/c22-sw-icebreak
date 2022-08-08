@@ -7,15 +7,17 @@ Started / Running a Startup?
 Had an unusual Job?
 
 Prefer Coffee or Tea?
+Pax: Coffee
 
 Went to Working Holiday?
 
 Good in Maths?
 
 Desperately need a Boyfriend / Girlfriend?
+brenda: no ans
 
 Want to be Hacker?
 
 Love Sports?
-
+Tony: Yes
 Fans of Matrix (the movie)?
