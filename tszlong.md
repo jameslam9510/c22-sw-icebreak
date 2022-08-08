@@ -4,20 +4,17 @@ Ask your classmate to fill in the question and commit with their laptop, not you
 Learned Programming before Tecky?
 
 Started / Running a Startup?
-
+Cynthia: No
 Had an unusual Job?
 
 Prefer Coffee or Tea?
 tea
 
 Went to Working Holiday?
-<<<<<<< HEAD
 No
 Tony
-=======
->>>>>>> a856f9ff27a79da44dac2a14d9c462e37e3ea25f
 
-Good in Maths?
+Good in Maths? No Vicky
 
 Desperately need a Boyfriend / Girlfriend?
 yes bf and gf
@@ -28,5 +25,6 @@ Want to be Hacker?
 
 
 Love Sports?
-Jeffrey
+
 Fans of Matrix (the movie)?
+Jeffrey

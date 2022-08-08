@@ -2,7 +2,12 @@ Ask your classmate to fill in the question and commit with their laptop, not you
 
 
 Learned Programming before Tecky?
+<<<<<<< HEAD
 no
+=======
+no　- kyle 
+
+>>>>>>> ba35aaba78a1ef14fbeec622846a136e50761bd9
 Started / Running a Startup?
 no 
 Had an unusual Job?
