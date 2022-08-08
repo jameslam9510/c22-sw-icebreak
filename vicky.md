@@ -14,6 +14,6 @@ Desperately need a Boyfriend / Girlfriend?
 
 Want to be Hacker?
 
-Love Sports?
+Love Sports? NO
 
 Fans of Matrix (the movie)? HI
