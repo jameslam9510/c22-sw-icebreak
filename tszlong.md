@@ -14,7 +14,7 @@ Went to Working Holiday?
 No
 Tony
 
-Good in Maths?
+Good in Maths? No Vicky
 
 Desperately need a Boyfriend / Girlfriend?
 
