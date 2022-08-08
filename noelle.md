@@ -7,7 +7,7 @@ no
 Had an unusual Job?
 no
 Prefer Coffee or Tea?
-coffe
+coffee
 Went to Working Holiday?
 no
 Good in Maths?
@@ -17,6 +17,6 @@ no
 Want to be Hacker?
 yes
 Love Sports?
-yes
+yes volleyball - noelle
 Fans of Matrix (the movie)?
 yes

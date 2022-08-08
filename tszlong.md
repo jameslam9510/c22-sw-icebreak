@@ -8,7 +8,7 @@ Started / Running a Startup?
 Had an unusual Job?
 
 Prefer Coffee or Tea?
-
+tea
 
 Went to Working Holiday?
 <<<<<<< HEAD
@@ -20,8 +20,12 @@ Tony
 Good in Maths?
 
 Desperately need a Boyfriend / Girlfriend?
+yes bf and gf
+Curtis: No, need some sugar in general
 
 Want to be Hacker?
+
+
 
 Love Sports?
 Jeffrey

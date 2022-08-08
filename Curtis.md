@@ -1,7 +1,8 @@
 Ask your classmate to fill in the question and commit with their laptop, not yours.
 
 Learned Programming before Tecky?
-yes
+Pax: no
+
 Started / Running a Startup?
 no
 Had an unusual Job?
@@ -15,7 +16,7 @@ ok
 Desperately need a Boyfriend / Girlfriend?
 no
 Want to be Hacker?
-yes
+Pax: yes
 Love Sports?
 yes
 Fans of Matrix (the movie)?

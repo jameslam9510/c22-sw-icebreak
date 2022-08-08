@@ -6,9 +6,13 @@ no
 Started / Running a Startup?
 no 
 Had an unusual Job?
+<<<<<<< HEAD
 yes, night shift in hotel on his own
+=======
+Ronson: yes
+>>>>>>> 88d335d3896c30492ccbcaf5a6394345e7c15a31
 Prefer Coffee or Tea?
-
+Curtis: Coffee, specifically, dirty
 Went to Working Holiday?
 
 Good in Maths?
@@ -16,7 +20,9 @@ Good in Maths?
 Desperately need a Boyfriend / Girlfriend?
 
 Want to be Hacker?
+I want to be Hacker
 
 Love Sports?
 
 Fans of Matrix (the movie)?
+Louie

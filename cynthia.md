@@ -8,12 +8,15 @@ Had an unusual Job?
 
 Prefer Coffee or Tea?
 Pax: Coffee
+Curtis: Coffee specifically, dirty
 
 Went to Working Holiday?
 
 Good in Maths?
 
+
 Desperately need a Boyfriend / Girlfriend?
+brenda: no ans
 
 Want to be Hacker?
 
