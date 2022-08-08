@@ -5,7 +5,7 @@ Learned Programming before Tecky?
 Started / Running a Startup?
 
 Had an unusual Job?
-
+Cynthia: no
 Prefer Coffee or Tea?
 
 Went to Working Holiday?
