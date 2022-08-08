@@ -17,6 +17,11 @@ no
 Want to be Hacker?
 yes
 Love Sports?
+<<<<<<< HEAD
+Hiking
+Fans of Matrix (the movie)?
+=======
 yes
 Fans of Matrix (the movie)?
 no
+>>>>>>> f681d5f5b38135ce5f8c1f25ef1a3c92bf3a33b8

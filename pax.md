@@ -1,17 +1,17 @@
 Learned Programming before Tecky?
 
 Started / Running a Startup?
-
+Jennifer
 Had an unusual Job?
 
 Prefer Coffee or Tea?
 Tony: tea
 Went to Working Holiday?
-Cynthia: No
+
 Good in Maths?
 
 Desperately need a Boyfriend / Girlfriend?
-kyle: bf gf anyf
+
 Want to be Hacker?
 
 Love Sports?
