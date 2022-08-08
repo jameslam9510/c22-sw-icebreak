@@ -12,7 +12,7 @@ Prefer Coffee or Tea? Tea (Vicky)
 Went to Working Holiday?
 
 Good in Maths?
-
+no
 Desperately need a Boyfriend / Girlfriend?
 
 Want to be Hacker?
