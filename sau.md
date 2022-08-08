@@ -5,9 +5,9 @@ Learned Programming before Tecky?
 
 Started / Running a Startup?
 
-Had an unusual Job?
+Had an unusual Job? 
 
-Prefer Coffee or Tea?
+Prefer Coffee or Tea? Tea (Vicky)
 
 Went to Working Holiday?
 
