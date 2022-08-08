@@ -4,9 +4,11 @@ Learned Programming before Tecky?
 
 Started / Running a Startup?
 
-Had an unusual Job? No (Vicky)
-
+Had an unusual Job?
+No (Vicky)
+Cynthia: no
 Prefer Coffee or Tea?
+Pax: Coffee
 
 Went to Working Holiday?
 

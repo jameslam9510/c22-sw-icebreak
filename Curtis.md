@@ -3,13 +3,13 @@ Ask your classmate to fill in the question and commit with their laptop, not you
 Learned Programming before Tecky?
 yes
 Started / Running a Startup?
-no
+no, but had internship overseas-Matthew
 Had an unusual Job?
-no
+no Ling
 Prefer Coffee or Tea?
 coffee
 Went to Working Holiday?
-no
+no Ling
 Good in Maths?
 ok 
 Desperately need a Boyfriend / Girlfriend?

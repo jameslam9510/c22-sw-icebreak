@@ -1,13 +1,13 @@
 Learned Programming before Tecky?
 no
 Started / Running a Startup?
-no
+no ,ling
 Had an unusual Job?
 Louie
 Prefer Coffee or Tea?
 Jennifer
 coffee
-Went to Working Holiday? No Vicky   
+Went to Working Holiday?
 no
 Good in Maths?
 no
@@ -16,7 +16,7 @@ no
 Want to be Hacker?
 yes
 Love Sports?
-<<<<<<< HEAD
+Yes,volleyball-Matthew
 
 # Fans of Matrix (the movie)?
 
