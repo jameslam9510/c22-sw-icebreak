@@ -1,4 +1,6 @@
 Learned Programming before Tecky?
+no - kyle
+
 
 Started / Running a Startup?
 
