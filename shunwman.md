@@ -6,9 +6,9 @@ Had an unusual Job?
 
 Prefer Coffee or Tea?
 
-Went to Working Holiday? 
+Went to Working Holiday?
 
-Good in Maths? Not Good (Vicky)
+Good in Maths?
 
 Desperately need a Boyfriend / Girlfriend?
 

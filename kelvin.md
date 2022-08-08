@@ -9,7 +9,6 @@ Had an unusual Job?  No Vicky
 Prefer Coffee or Tea?
 
 Went to Working Holiday?
-Ronson: No
 
 Good in Maths?
 
