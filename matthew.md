@@ -9,7 +9,7 @@ Started / Running a Startup?
 Had an unusual Job?
 Ronson: yes
 Prefer Coffee or Tea?
-Big fan of coffee, specifically Dirty-Curtis
+
 Went to Working Holiday?
 
 Good in Maths?

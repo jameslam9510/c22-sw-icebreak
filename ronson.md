@@ -8,7 +8,7 @@ Prefer Coffee or Tea?
 Jennifer
 coffee
 Went to Working Holiday?
-no (Kyle)
+no
 Good in Maths?
 no
 Desperately need a Boyfriend / Girlfriend?
