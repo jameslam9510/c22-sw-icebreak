@@ -8,8 +8,8 @@ Had an unusual Job?
 no
 Prefer Coffee or Tea?
 coffee
-Went to Working Holiday? no Vicky
-no
+Went to Working Holiday?
+no Jennifer:yes
 Good in Maths?
 no
 Desperately need a Boyfriend / Girlfriend?
