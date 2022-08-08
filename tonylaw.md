@@ -9,7 +9,7 @@ Prefer Coffee or Tea?
 Went to Working Holiday?
 
 Good in Maths?
-
+Ronson - no 
 Desperately need a Boyfriend / Girlfriend?
 YES BOYFRIEND - LOVE KYLE
 Want to be Hacker?
