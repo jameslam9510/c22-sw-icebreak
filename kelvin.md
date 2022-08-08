@@ -1,5 +1,7 @@
 Learned Programming before Tecky?
 
+Curtis: No
+
 Started / Running a Startup?
 
 Had an unusual Job?

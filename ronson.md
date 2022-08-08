@@ -1,19 +1,20 @@
 Learned Programming before Tecky?
-
+no
 Started / Running a Startup?
-
+no
 Had an unusual Job?
-
+Louie
 Prefer Coffee or Tea?
-
+coffee
 Went to Working Holiday?
-
+no (Kyle)
 Good in Maths?
-
+no
 Desperately need a Boyfriend / Girlfriend?
-
+no
 Want to be Hacker?
-
+yes
 Love Sports?
-
+yes
 Fans of Matrix (the movie)?
+yes
