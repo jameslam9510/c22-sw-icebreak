@@ -7,7 +7,7 @@ Started / Running a Startup?
  bruh I'm broke
 
 Had an unusual Job?
- I hope so
+ nah
 
 Prefer Coffee to Tea?
  tea in most cases
